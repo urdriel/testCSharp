@@ -23,8 +23,7 @@ namespace proyectoTest
             Precio precio7=new Precio("descuento7",70);
             Precio precio8=new Precio("descuento8",80);
             Precio precio9=new Precio("descuento9",10000);
-            Precio precio10=new Precio("descuento9",40000); 
-             Precio precio11=new Precio("descuento9",400000); 
+           
 
 
             ClienteInterno cliInt1=new ClienteInterno("2000","eletronica","juan muñoz","1234567h",precio1);
