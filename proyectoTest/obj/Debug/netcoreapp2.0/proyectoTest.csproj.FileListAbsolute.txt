@@ -8,3 +8,13 @@ C:\proyectoSharp\proyectoTest\bin\Debug\netcoreapp2.0\proyectoTest.dll
 C:\proyectoSharp\proyectoTest\bin\Debug\netcoreapp2.0\proyectoTest.pdb
 C:\proyectoSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.dll
 C:\proyectoSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.pdb
+C:\proyectoSharp\testCSharp\proyectoTest\bin\Debug\netcoreapp2.0\proyectoTest.deps.json
+C:\proyectoSharp\testCSharp\proyectoTest\bin\Debug\netcoreapp2.0\proyectoTest.runtimeconfig.json
+C:\proyectoSharp\testCSharp\proyectoTest\bin\Debug\netcoreapp2.0\proyectoTest.runtimeconfig.dev.json
+C:\proyectoSharp\testCSharp\proyectoTest\bin\Debug\netcoreapp2.0\proyectoTest.dll
+C:\proyectoSharp\testCSharp\proyectoTest\bin\Debug\netcoreapp2.0\proyectoTest.pdb
+C:\proyectoSharp\testCSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.csproj.CoreCompileInputs.cache
+C:\proyectoSharp\testCSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.AssemblyInfoInputs.cache
+C:\proyectoSharp\testCSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.AssemblyInfo.cs
+C:\proyectoSharp\testCSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.dll
+C:\proyectoSharp\testCSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.pdb

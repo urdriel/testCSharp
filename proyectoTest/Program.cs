@@ -14,6 +14,8 @@ namespace proyectoTest
         
         static void Main(string[] args)
         {
+
+            //Creo objetos Precio
             Precio precio1=new Precio("descuento1",10);
             Precio precio2=new Precio("descuento2",20);
             Precio precio3=new Precio("descuento3",30);
@@ -25,7 +27,7 @@ namespace proyectoTest
             Precio precio9=new Precio("descuento9",10000);
            
 
-
+            //creo objetos Clientes
             ClienteInterno cliInt1=new ClienteInterno("2000","eletronica","juan muñoz","1234567h",precio1);
             ClienteInterno cliInt2=new ClienteInterno("2005","televisores","alberto sosa","1234567h",precio2);
             ClienteInterno cliInt3=new ClienteInterno("1985","restaurante","antonio heredia","1234567h",precio3);
@@ -36,8 +38,11 @@ namespace proyectoTest
             ClienteInternoDirectivo cliInt8=new ClienteInternoDirectivo("24/08/1980","Hogar","cuenta gastos 1","Maria de la O","3333444555",precio8);
             ClienteInternoDirectivo cliInt9=new ClienteInternoDirectivo("24/08/1990","Hogar","cuenta gastos 2","Elena de la O","33335554479",precio9);
            
+
+           //creo lista de objetos para almacenar todos los tipos de cliente
             List<object> listaClientes = new List<object>(); 
 
+            //pueblo la lista con los clientes
             listaClientes.Add(cliInt1);
             listaClientes.Add(cliInt2);
             listaClientes.Add(cliInt3);
@@ -50,6 +55,7 @@ namespace proyectoTest
 
             Console.WriteLine("<--------LISTADO TODOS LOS CLIENTES EN LISTACLIENTES-------------->");
 
+            //recorro la lista sacando por pantalla los datos de cada item objeto
             foreach (object cliente in listaClientes){
 
                     Console.WriteLine (cliente);                                               
@@ -58,16 +64,21 @@ namespace proyectoTest
 
             Console.WriteLine("<--------LISTADO TODOS LOS CLIENTES EN LISTACLIENTES-------------->"); 
 
+            //me dan 2 listas, creo una tercera y almaceno las anteriores en ella
+
             List<ClienteExternoVip> listaClientes1= new List<ClienteExternoVip>();
             List<ClienteExternoVip> listaClientes2= new List<ClienteExternoVip>();
             List<ClienteExternoVip> listaClientes3= new List<ClienteExternoVip>();
 
+
+            //creo unos cuantos clientes 
             ClienteExternoVip cliExVip1=new ClienteExternoVip("123432h1","1perico palotes1","perico@gmail.com1","9887678981","calle palotes1","descuento numero 11",precio6);
             ClienteExternoVip cliExVip2=new ClienteExternoVip("123432h2","2perico palotes2","perico@gmail.com2","9887678982","calle palotes2","descuento numero 12",precio9);
             ClienteExternoVip cliExVip3=new ClienteExternoVip("123432h3","3perico palotes3","perico@gmail.com3","9887678983","calle palotes3","descuento numero 13",precio8);
             ClienteExternoVip cliExVip4=new ClienteExternoVip("123432h4","4perico palotes4","perico@gmail.com4","9887678984","calle palotes4","descuento numero 11",precio8);
             ClienteExternoVip cliExVip5=new ClienteExternoVip("123432h5","5perico palotes5","perico@gmail.com5","9887678985","calle palotes5","descuento numero 15",precio3);
 
+            //pueblo las list 1 y 2
             listaClientes1.Add(cliExVip1);
             listaClientes1.Add(cliExVip2);
             listaClientes1.Add(cliExVip3);
