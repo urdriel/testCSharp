@@ -24,7 +24,7 @@ namespace proyectoTest
             Precio precio6=new Precio("descuento6",60);
             Precio precio7=new Precio("descuento7",70);
             Precio precio8=new Precio("descuento8",80);
-            Precio precio9=new Precio("descuento9",10000);
+            Precio precio9=new Precio("descuento9",35000);
            
 
             //creo objetos Clientes
