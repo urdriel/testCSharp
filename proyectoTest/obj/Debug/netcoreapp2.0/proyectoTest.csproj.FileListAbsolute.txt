@@ -18,3 +18,13 @@ C:\proyectoSharp\testCSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.As
 C:\proyectoSharp\testCSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.AssemblyInfo.cs
 C:\proyectoSharp\testCSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.dll
 C:\proyectoSharp\testCSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.pdb
+F:\csharp\testCSharp\proyectoTest\bin\Debug\netcoreapp2.0\proyectoTest.deps.json
+F:\csharp\testCSharp\proyectoTest\bin\Debug\netcoreapp2.0\proyectoTest.runtimeconfig.json
+F:\csharp\testCSharp\proyectoTest\bin\Debug\netcoreapp2.0\proyectoTest.runtimeconfig.dev.json
+F:\csharp\testCSharp\proyectoTest\bin\Debug\netcoreapp2.0\proyectoTest.dll
+F:\csharp\testCSharp\proyectoTest\bin\Debug\netcoreapp2.0\proyectoTest.pdb
+F:\csharp\testCSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.csproj.CoreCompileInputs.cache
+F:\csharp\testCSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.AssemblyInfoInputs.cache
+F:\csharp\testCSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.AssemblyInfo.cs
+F:\csharp\testCSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.dll
+F:\csharp\testCSharp\proyectoTest\obj\Debug\netcoreapp2.0\proyectoTest.pdb

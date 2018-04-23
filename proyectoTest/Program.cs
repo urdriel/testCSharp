@@ -16,14 +16,14 @@ namespace proyectoTest
         {
 
             //Creo objetos Precio
-            Precio precio1=new Precio("descuento1",10);
-            Precio precio2=new Precio("descuento2",20);
-            Precio precio3=new Precio("descuento3",30);
-            Precio precio4=new Precio("descuento4",40);
-            Precio precio5=new Precio("descuento5",50);
-            Precio precio6=new Precio("descuento6",60);
-            Precio precio7=new Precio("descuento7",70);
-            Precio precio8=new Precio("descuento8",80);
+            Precio precio1=new Precio("descuento1",100);
+            Precio precio2=new Precio("descuento2",200);
+            Precio precio3=new Precio("descuento3",300);
+            Precio precio4=new Precio("descuento4",400);
+            Precio precio5=new Precio("descuento5",500);
+            Precio precio6=new Precio("descuento6",600);
+            Precio precio7=new Precio("descuento7",700);
+            Precio precio8=new Precio("descuento8",800);
             Precio precio9=new Precio("descuento9",35000);
            
 
